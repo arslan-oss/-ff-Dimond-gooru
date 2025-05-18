@@ -1,0 +1,5 @@
+if the age is <15
+         print(small)
+if the age is >15
+         print(biggest)
+         
